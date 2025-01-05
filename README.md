@@ -1,0 +1,15 @@
+# Rock-Paper-Scissors Game
+
+**COMPANY**: CODSOFT
+
+**NAME**: HARINI.M
+
+**INTERN ID**: CS24NY361657
+
+**DOMAIN**: PYTHON PROGRAMMING
+
+**BATCH DURATION**: DECEMBER-25,2024 TO JANUARY-25,2025
+
+# OUTPUT FOR TASK 4:
+![IDLE Shell 3 12 5 05-01-2025 7 39 51 PM](https://github.com/user-attachments/assets/14fa534f-8326-4a32-9480-b1e6d4b774ee)
+
